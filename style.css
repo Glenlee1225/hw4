@@ -1,0 +1,46 @@
+.header {
+    text-align: center;
+    font-size: 34px;
+    font-weight: 700;
+  }
+  
+.container {
+    text-align: center;
+}
+  
+button {
+    padding: 10px;
+    margin: 24px;
+    cursor: pointer;
+    font-size: 24px;
+    background-color: #247BA0;
+    color: white;
+    
+}
+#main {
+    position: relative;
+    height: 20%;
+    padding-top: 10px;
+    width: 300px;
+    margin: auto;
+    text-align: center;
+}
+
+.box {
+    height: 300px;
+    width: 300px;
+    margin: auto;
+    text-align: center;
+}
+
+body{
+	font-size: 20px;
+	font-family: sans-serif;
+	color: #333;
+}
+.question{
+	font-weight: 600;
+}
+.answers {
+    margin-bottom: 20px;
+}
